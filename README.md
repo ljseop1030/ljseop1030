@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+* 🌱 I am @ljseop1030(Lee, Jiseop) a 2nd-year undergraduate student majoring **ITM (Information Technology Management)**
+* 🏫 Seoul National University of Science and Technology (SeoulTech).
+* 📫 **How to reach me:** `leejiseop@seoultech.ac.kr`
+
 <!--
 **ljseop1030/ljseop1030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
