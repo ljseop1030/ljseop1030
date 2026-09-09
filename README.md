@@ -1,48 +1,27 @@
 ## Hi there 👋 I'm Jiseop Lee (이지섭)
 
-A backend-focused developer and HCI researcher who loves turning complex problems into executable, clean code. I enjoy diving deep into debugging, routing, and building solid foundations for user-facing applications. 
+I mostly write backend code — routing, APIs, and the part where something breaks and nobody knows why. Spent the last 8 months doing HCI research on the side.
 
 * 🎓 **Junior (3rd-year) Undergraduate** majoring in **ITM (Information Technology Management)** at SeoulTech.
 * 🔍 **Focus Areas:** Backend Engineering (Node.js, Java), System Architecture, and UX Research (HCI).
-* 🧪 **Previously:** Undergraduate Researcher at IXLAB (AI-HCI)
+* 🧪 **Previously:** Undergraduate Researcher at IXLAB (AI-HCI) — co-authored papers for VRST & CHI.
 * 📫 **How to reach me:** leejiseop@seoultech.ac.kr
 * 🗣️ **Languages:** Korean (Native), English (Fluent / IELTS 8.0)
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
 
-**Languages**
-
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
-
-**Backend & DB**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
-![RDBMS](https://img.shields.io/badge/RDBMS-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Data & Research**
-
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Statistical Analysis](https://img.shields.io/badge/Statistical%20Analysis-8A2BE2?style=for-the-badge)
-![User Study](https://img.shields.io/badge/User%20Study-FF6F61?style=for-the-badge)
-![Log Analysis](https://img.shields.io/badge/Log%20Analysis-2F4F4F?style=for-the-badge)
-
-**Collaboration**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) |
+| **Backend / DB** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| **Data / Research** | ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white) ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white) |
 
 ---
 
-### 🚀 Highlighted Projects
+## 🚀 Highlighted Projects
 
 * **Typoem (Social Poetry Web Platform)** 
   * Designed and implemented the backend using **Node.js** and **JavaScript**.
