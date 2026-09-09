@@ -4,7 +4,7 @@ I mostly write backend code — routing, APIs, and the part where something brea
 
 * 🎓 **Junior (3rd-year) Undergraduate** majoring in **ITM (Information Technology Management)** at SeoulTech.
 * 🔍 **Focus Areas:** Backend Engineering (Node.js, Java), System Architecture, and UX Research (HCI).
-* 🧪 **Previously:** Undergraduate Researcher at IXLAB (AI-HCI) — co-authored papers for VRST & CHI.
+* 🧪 **Previously:** Undergraduate Researcher at IXLAB (AI-HCI).
 * 📫 **How to reach me:** leejiseop@seoultech.ac.kr
 * 🗣️ **Languages:** Korean (Native), English (Fluent / IELTS 8.0)
 
