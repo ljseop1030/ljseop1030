@@ -1,10 +1,10 @@
-## Hi there 👋 I'm Jiseop Lee (이지섭)
+## Hi 👋 I'm Jiseop Lee (이지섭)
 
 I mostly write backend code — routing, APIs, and the part where something breaks and nobody knows why. Lately I've been building LLM-powered apps, and making sure the model's output is checked before anything trusts it.
 
 * 🎓 **3rd-year undergraduate** in **IT Management** at SeoulTech (dual degree with Northumbria University, UK)
 * 🔍 **Focus:** UX research (HCI), Backend engineering (Python/FastAPI, Node.js/Express), and LLM-powered apps
-* 🧪 **Research:** Undergraduate Research Assistant at IXLAB (AI-HCI)
+* 🧪 **Research:** Undergraduate Research Assistant at IXLAB
 * 📫 **Reach me:** ljseop1030@gmail.com · [LinkedIn](https://www.linkedin.com/in/leejiseop/)
 * 🗣️ **Languages:** Korean (native), English (fluent · IELTS 8.0)
 
